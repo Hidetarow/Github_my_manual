@@ -48,3 +48,5 @@ git checkout branch_name
 
 - ブランチに対する操作を確認するよよよよ。  
 git diff master
+
+......
