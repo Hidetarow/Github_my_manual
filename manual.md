@@ -46,7 +46,10 @@ git branch
 - ブランチをチェックアウトする。  
 git checkout branch_name
 
-- ブランチに対する操作を確認するよよよよ。  
+- ブランチに対する操作を確認するよよよよぜやっ。  
 git diff master
+
+- ブランチをプッシュする。
+git push origin branch_name
 
 ......
