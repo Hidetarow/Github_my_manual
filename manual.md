@@ -46,5 +46,5 @@ git branch
 - ブランチをチェックアウトする。  
 git checkout branch_name
 
-- ブランチに対する操作を確認する。  
+- ブランチに対する操作を確認するよ。  
 git diff master
